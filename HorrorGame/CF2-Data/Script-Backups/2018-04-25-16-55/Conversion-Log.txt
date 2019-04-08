@@ -1,0 +1,162 @@
+Converting script [1 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/!Examples/ExampleInput.cs]
+	Fragments : 1
+		[ 0] : Line:   22	InputMethod   GetKeyDown          	(useKey)
+
+Converting script [2 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/!Examples/ExampleInputManager.cs]
+	Fragments : 1
+		[ 0] : Line:   26	InputMethod   GetKeyDown          	(useKey)
+
+Converting script [3 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Camera/ZoomEffect.cs]
+	Fragments : 1
+		[ 0] : Line:   27	InputMethod   GetKey              	(ZoomKey)
+
+Converting script [4 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Drag/DragRigidbody.cs]
+	Fragments : 6
+		[ 0] : Line:  103	InputMethod   GetKeyDown          	(GrabButton)
+		[ 1] : Line:  122	InputMethod   GetKeyDown          	(ThrowButton)
+		[ 2] : Line:  141	InputMethod   GetAxis             	("Mouse X")
+		[ 3] : Line:  142	InputMethod   GetAxis             	("Mouse Y")
+		[ 4] : Line:  166	InputMethod   GetKey              	(rotateObject)
+		[ 5] : Line:  176	InputMethod   GetAxis             	("Mouse ScrollWheel")
+
+Converting script [5 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Interact/DynamicObjectManager.cs]
+	Fragments : 4
+		[ 0] : Line:   88	InputMethod   GetKey              	(UseKey)
+		[ 1] : Line:  127	InputMethod   GetAxis             	("Mouse X")
+		[ 2] : Line:  128	InputMethod   GetAxis             	("Mouse Y")
+		[ 3] : Line:  129	InputMethod   GetAxis             	("Mouse Y")
+
+Converting script [6 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Interact/BatteryFlashlight/BatteryUI.cs]
+	Fragments : 1
+		[ 0] : Line:   52	InputMethod   GetKeyDown          	(BatteryReloadKey)
+
+Converting script [7 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Interact/BatteryFlashlight/FlashlightScript.cs]
+	Fragments : 1
+		[ 0] : Line:  217	InputMethod   GetKeyDown          	(FlashlightKey)
+
+Converting script [8 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Item/CandleItem.cs]
+	Fragments : 1
+		[ 0] : Line:   96	InputMethod   GetKeyDown          	(BlowOutKey)
+
+Converting script [9 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Item/ItemSwitcher.cs]
+	Fragments : 1
+		[ 0] : Line:  123	InputMethod   GetKeyDown          	(KeyCode.Alpha1)
+
+Converting script [10 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Item/LanternItem.cs]
+	Fragments : 1
+		[ 0] : Line:   82	InputMethod   GetKeyDown          	(UseLantern)
+
+Converting script [11 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Manager/ExamineManager.cs]
+	Fragments : 6
+		[ 0] : Line:  118	InputMethod   GetKeyDown          	(grabKey)
+		[ 1] : Line:  169	InputMethod   GetAxis             	("Mouse X")
+		[ 2] : Line:  170	InputMethod   GetAxis             	("Mouse Y")
+		[ 3] : Line:  181	InputMethod   GetKey              	(rotateKey)
+		[ 4] : Line:  186	InputMethod   GetKey              	(examineKey)
+		[ 5] : Line:  191	InputMethod   GetKeyDown          	(examineKey)
+
+Converting script [12 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Manager/HFPS_GameManager.cs]
+	Fragments : 10
+		[ 0] : Line:  200	Other mod.	[Cursor.visible]
+		[ 1] : Line:  201	Other mod.	[Cursor.lockState]
+		[ 2] : Line:  203	Other mod.	[Cursor.visible]
+		[ 3] : Line:  204	Other mod.	[Cursor.lockState]
+		[ 4] : Line:  243	InputMethod   GetKeyDown          	(ShowPauseMenuKey)
+		[ 5] : Line:  268	InputMethod   GetKeyDown          	(InventoryKey)
+		[ 6] : Line:  363	Other mod.	[Cursor.visible]
+		[ 7] : Line:  364	Other mod.	[Cursor.lockState]
+		[ 8] : Line:  367	Other mod.	[Cursor.visible]
+		[ 9] : Line:  368	Other mod.	[Cursor.lockState]
+
+Converting script [13 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Manager/InteractManager.cs]
+	Fragments : 2
+		[ 0] : Line:  102	InputMethod   GetKey              	(UseKey)
+		[ 1] : Line:  108	InputMethod   GetKeyUp            	(UseKey)
+
+Converting script [14 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Player/BreathAnim.cs]
+	Fragments : 1
+		[ 0] : Line:   12	InputMethod   GetButton           	("Fire2")
+
+Converting script [15 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Player/DelayEffect.cs]
+	Fragments : 3
+		[ 0] : Line:   22	Other mod.	[Cursor.lockState]
+		[ 1] : Line:   25	InputMethod   GetAxis             	("Mouse X")
+		[ 2] : Line:   26	InputMethod   GetAxis             	("Mouse Y")
+
+Converting script [16 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Player/MouseLook.cs]
+	Fragments : 7
+		[ 0] : Line:   45	Other mod.	[Cursor.visible]
+		[ 1] : Line:   46	Other mod.	[Cursor.lockState]
+		[ 2] : Line:   88	Other mod.	[Cursor.lockState]
+		[ 3] : Line:   94	InputMethod   GetAxis             	("Mouse X")
+		[ 4] : Line:   95	InputMethod   GetAxis             	("Mouse Y")
+		[ 5] : Line:  108	InputMethod   GetAxis             	("Mouse X")
+		[ 6] : Line:  116	InputMethod   GetAxis             	("Mouse Y")
+
+Converting script [17 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Player/PlayerController.cs]
+	Fragments : 13
+		[ 0] : Line:  289	InputMethod   GetKey              	(ForwardKey)
+		[ 1] : Line:  295	InputMethod   GetKey              	(BackwardKey)
+		[ 2] : Line:  301	InputMethod   GetKey              	(LeftKey)
+		[ 3] : Line:  307	InputMethod   GetKey              	(RightKey)
+		[ 4] : Line:  352	InputMethod   GetKey              	(RunKey)
+		[ 5] : Line:  352	InputMethod   GetKey              	(ForwardKey)
+		[ 6] : Line:  352	InputMethod   GetKey              	(ZoomKey)
+		[ 7] : Line:  395	InputMethod   GetKey              	(ZoomKey)
+		[ 8] : Line:  406	Other mod.	[Cursor.lockState]
+		[ 9] : Line:  414	InputMethod   GetKey              	(JumpKey)
+		[10] : Line:  484	InputMethod   GetKeyDown          	(CrouchKey)
+		[11] : Line:  528	InputProperty anyKey              
+		[12] : Line:  638	InputMethod   GetKey              	(JumpKey)
+
+Converting script [18 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Player/PlayerFunctions.cs]
+	Fragments : 3
+		[ 0] : Line:   57	InputMethod   GetKey              	(ZoomKey)
+		[ 1] : Line:  104	InputMethod   GetKey              	(LeanRight)
+		[ 2] : Line:  113	InputMethod   GetKey              	(LeanLeft)
+
+Converting script [19 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/SerializationManager/InputController.cs]
+	Fragments : 1
+		[ 0] : Line:  172	InputMethod   GetKeyDown          	(kcode)
+
+Converting script [20 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/UI/Menu/UIOptions.cs]
+	Fragments : 3
+		[ 0] : Line:  263	Other mod.	[Screen.fullScreen]
+		[ 1] : Line:  581	Other mod.	[Screen.fullScreen]
+		[ 2] : Line:  589	Other mod.	[Screen.SetResolution(res.width, res.height, fullscreen.isOn)]
+
+Converting script [21 / 21]	[/Horror FPS KIT/HFPS Assets/Content/Scripts/Weapon/WeaponController.cs]
+	Fragments : 6
+		[ 0] : Line:  228	Other mod.	[Cursor.lockState]
+		[ 1] : Line:  231	InputMethod   GetKeyDown          	(FireKey)
+		[ 2] : Line:  250	InputMethod   GetKey              	(FireKey)
+		[ 3] : Line:  260	InputMethod   GetKeyDown          	(ReloadKey)
+		[ 4] : Line:  266	InputMethod   GetKey              	(ZoomKey)
+		[ 5] : Line:  404	InputMethod   GetKeyDown          	(SwitchFireModeKey)
+
+
+21 scripts modified!
+Overwriting actual scripts...
+	[0 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/!Examples/ExampleInput.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/!Examples/ExampleInput.cs]
+	[1 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/!Examples/ExampleInputManager.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/!Examples/ExampleInputManager.cs]
+	[2 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Camera/ZoomEffect.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Camera/ZoomEffect.cs]
+	[3 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Drag/DragRigidbody.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Drag/DragRigidbody.cs]
+	[4 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Interact/DynamicObjectManager.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Interact/DynamicObjectManager.cs]
+	[5 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Interact/BatteryFlashlight/BatteryUI.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Interact/BatteryFlashlight/BatteryUI.cs]
+	[6 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Interact/BatteryFlashlight/FlashlightScript.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Interact/BatteryFlashlight/FlashlightScript.cs]
+	[7 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Item/CandleItem.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Item/CandleItem.cs]
+	[8 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Item/ItemSwitcher.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Item/ItemSwitcher.cs]
+	[9 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Item/LanternItem.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Item/LanternItem.cs]
+	[10 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Manager/ExamineManager.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Manager/ExamineManager.cs]
+	[11 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Manager/HFPS_GameManager.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Manager/HFPS_GameManager.cs]
+	[12 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Manager/InteractManager.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Manager/InteractManager.cs]
+	[13 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Player/BreathAnim.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Player/BreathAnim.cs]
+	[14 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Player/DelayEffect.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Player/DelayEffect.cs]
+	[15 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Player/MouseLook.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Player/MouseLook.cs]
+	[16 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Player/PlayerController.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Player/PlayerController.cs]
+	[17 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Player/PlayerFunctions.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Player/PlayerFunctions.cs]
+	[18 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/SerializationManager/InputController.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/SerializationManager/InputController.cs]
+	[19 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/UI/Menu/UIOptions.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/UI/Menu/UIOptions.cs]
+	[20 / 21] from  [/Users/dev/Desktop/fpshorror/HorrorGame/CF2-Data/Script-Backups/2018-04-25-16-55/Assets-After//Horror FPS KIT/HFPS Assets/Content/Scripts/Weapon/WeaponController.cs] to [/Users/dev/Desktop/fpshorror/HorrorGame/Assets//Horror FPS KIT/HFPS Assets/Content/Scripts/Weapon/WeaponController.cs]
+
+Overwriting COMPLETED!
